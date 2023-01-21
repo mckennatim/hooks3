@@ -1,10 +1,10 @@
 {
   "superapp": "iot",
   "appid": "signin",
-  "cbPath": "#locs",
+  "cbPath": "signin/#locs",
   "sitebuilt.net":{
     "soauth": "https://services.sitebuilt.net/soauth",
-    "api": "https://services.sitebuilt.net/s2g/api"
+    "api": "https://services.sitebuilt.net/iotex/api"
   },
   "parleyvale.com": {
     "soauth": "https://services.sitebuilt.net/soauth",

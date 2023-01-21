@@ -1,8 +1,8 @@
-#hooks3/cascada2
+#hooks3/iot/cascada2
 
 ## log
-### 9/18/20 version_update
-updated deployed version to hooks3
+### 9/18/20 cascada2-version_update
+updated deployed version to hooks3 frog
 ### 9/15/20 weeklyScheduler
 when you hit `change today` tap changes but WeeklyScheduler re-renders before the page changes back to `control`. `nav2` does not navigate ahead on setProps 
 

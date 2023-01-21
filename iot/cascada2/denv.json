@@ -1,7 +1,7 @@
 {
   "superapp": "iot",
   "appid": "cascada2",
-  "cbPath": "#locs",
+  "cbPath": "signin/#locs",
   "mqtt_server": "services.sitebuilt.net/iotb/wss", 
   "mqtt_port": 4333,
   "sitebuilt.net":{

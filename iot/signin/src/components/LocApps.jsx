@@ -80,7 +80,7 @@ const LocApps = (props)=>{
 
   return(
     <div>
-      <h3>Apps at {locid}</h3>
+      <h3>Apps at {locid} from hooks3/iot/signin</h3>
       {renderWhat()}
       <span>
         Choose a different <a href="#locs">location</a>?
